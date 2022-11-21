@@ -38,7 +38,7 @@ class TypeCAdapter extends TypeC {
     }
 }
 
-public class exp03_adapter {
+public class exp_03_adapter {
     public static void main(String[] args) {
         USBA usba = new USBA();
         Phone phone = new Phone();
